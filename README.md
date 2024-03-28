@@ -14,21 +14,21 @@ Implement database normalization techniques to maintain data integrity and optim
 
 ## Project Components:
 
-#### Repository Structure:
+### Repository Structure:
 
 Organize the repository systematically for easy access and understanding.
 
-#### Primary and Foreign Keys:
+### Primary and Foreign Keys:
 
 Identify appropriate primary and foreign keys for all relations.
 
 Document primary keys and foreign keys in the finalized Entity-Relationship (EER) model.
 
-#### Entity-Relationship Diagram (EER):
+### Entity-Relationship Diagram (EER):
 
 Illustrate relationships using a comprehensive and precise EER diagram.
 
-#### Relational Schema Transformation:
+### Relational Schema Transformation:
 
 Transform provided data into a relational schema.
 
@@ -36,13 +36,13 @@ Describe unary, binary, and ternary relationships, and enumerate all binary rela
 
 Establish integrity constraints using specific database constraints.
 
-#### Normalization and Functional Dependencies:
+### Normalization and Functional Dependencies:
 
 Identify functional dependencies and anomalies in each relation.
 
 Normalize the schema to adhere to 1NF, 2NF, and 3NF.
 
-#### SQL Queries and Oracle Apex Integration:
+### SQL Queries and Oracle Apex Integration:
 
 Write SQL queries to address specific data inquiries.
 
